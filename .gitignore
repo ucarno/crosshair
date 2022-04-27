@@ -1,0 +1,7 @@
+.idea/
+crosshair.psd
+
+__pycache__/
+build/
+dist/
+venv/
